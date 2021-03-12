@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eouna
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning go
+- 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on make game
 - 📫 How to reach me blog.ffole.cn
 
