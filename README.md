@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on make game
-- 📫 How to reach me blog.ffole.cn
+- 📫 How to reach me blog.chengcl.com
 
 <!---
 eouna/eouna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
